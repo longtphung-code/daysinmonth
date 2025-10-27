@@ -5,5 +5,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "This program will tell you how many days are in a month.\n";
+    std::cout << "Enter the month from 1-12\n";
 }
